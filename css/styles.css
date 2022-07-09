@@ -232,6 +232,12 @@ h1, h2, h3 {
     height: 200px;
     margin: 20px;
   }
+
+  .press-logo {
+    width: 18%;
+    margin: 20px 20px 50px;
+  }
+
 }
 
 @media (max-width: 1275px) and (min-width: 990px) {
@@ -245,4 +251,5 @@ h1, h2, h3 {
     position: static;
     padding-top: 100px;
   }
+
 }
